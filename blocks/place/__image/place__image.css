@@ -19,7 +19,7 @@
    }
 }
 
-@media screen and (max-width: 550px) {
+@media screen and (max-width: 650px) {
    .place__image {
    width: calc(100% + 48px);
    }
