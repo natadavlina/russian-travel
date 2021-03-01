@@ -4,4 +4,12 @@
     font-size: 18px;
     line-height: 22px;
     color: white;
+    -webkit-transition: opacity .3s ease-in-out;
+    -moz-transition: opacity .3s ease-in-out;
+    -o-transition: opacity .3s ease-in-out;
+    -ms-transition: opacity .3s ease-in-out;
+    transition: opacity .3s ease-in-out;
+}
+.place__link:hover {
+    opacity: .5;
 }
