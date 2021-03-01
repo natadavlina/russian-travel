@@ -8,3 +8,8 @@
     align-items: center;
     align-content: center;
 }
+@media screen and (max-width: 1024px) {
+    .lead {
+        width: 100%;
+    }
+}
