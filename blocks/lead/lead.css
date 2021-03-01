@@ -11,5 +11,6 @@
 @media screen and (max-width: 1024px) {
     .lead {
         width: 100%;
+        padding-top: 48px;
     }
 }
