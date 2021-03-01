@@ -6,13 +6,12 @@
     text-decoration: none;
     color: white;
     max-width: 560px;
-    max-height: 152px;
-    margin: 0;
-    
+    margin: 0;   
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 370px) {
     .cover__title {
         font-size: 32px;
         line-height: 35px;
+        width: 100%;
     }
 }
