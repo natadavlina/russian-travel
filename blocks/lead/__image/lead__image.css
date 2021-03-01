@@ -1,4 +1,8 @@
 .lead__image {
-    height: auto;
     width: 100%;
+}
+@media screen and (max-width: 768px) {
+    .lead__image {
+        width: calc(100% + 48px)
+    }
 }
