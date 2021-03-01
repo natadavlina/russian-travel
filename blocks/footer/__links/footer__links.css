@@ -5,6 +5,11 @@
     list-style: none;
     gap: 18px;
 }
+@media screen and (max-width: 720px) {
+    .footer__links {
+        flex-direction: column;
+    }
+}
 @media screen and (max-width: 320px) {
     .footer__links {
         flex-direction: column;
