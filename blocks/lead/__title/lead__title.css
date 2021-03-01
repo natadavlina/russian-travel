@@ -4,12 +4,9 @@
     font-size: 96px;
     font-weight: 900;
     font-family: 'Inter', sans-serif;
-    font-style: Black;
     line-height: 100px;
     text-align: center;
     margin-top: 56px;
-    margin-left: 132px;
-    margin-right: 132px;
     color: white;
 }
 @media screen and (max-width: 319px) {
