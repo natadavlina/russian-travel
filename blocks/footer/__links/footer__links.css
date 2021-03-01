@@ -1,0 +1,10 @@
+.footer__links {
+    font-family: 'Inter', sans-serif;
+    display: inline;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    color: white;
+    display: inline;
+    margin-right: 18px;
+}
