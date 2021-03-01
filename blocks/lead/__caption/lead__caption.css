@@ -4,6 +4,6 @@
     line-height: 14px;
     font-weight: 400;
     margin-top: 8px;
-    margin-right: 825px;
     color: white;
+    align-self: flex-start;
 }

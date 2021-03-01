@@ -1,18 +1,9 @@
 .lead__title {
-    width: 720px;
-    height: 200px;
+    max-width: 720px;
     font-size: 96px;
     font-weight: 900;
     font-family: 'Inter', sans-serif;
     line-height: 100px;
     text-align: center;
-    margin-top: 56px;
     color: white;
-}
-@media screen and (max-width: 319px) {
-    .lead__title {
-        min-width: 288px;
-        min-height: 88px;
-        
-    }
 }
