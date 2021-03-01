@@ -6,15 +6,6 @@
     width: 640px;
     height: 72px;
     margin-top: 32px;
-    margin-left: 172px;
-    margin-right: 172px;
-    margin-bottom: 64px;
     text-align: center;
     color: white;
-}
-@media screen and (max-width: 319px) {
-    .lead__subtitle {
-        min-width: 288px;
-        min-height: 40px;
-    }
 }

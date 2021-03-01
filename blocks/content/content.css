@@ -1,5 +1,9 @@
 .content {
     width: calc(100% - 96px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto;
 }
 @media screen and (max-width: 768px) {
     .content {
