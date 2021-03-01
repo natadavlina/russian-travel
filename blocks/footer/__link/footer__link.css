@@ -1,0 +1,12 @@
+.footer__link {
+    display: inline-block;
+    color: white;
+    font-family: 'Inter', Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 18px;
+    margin-right: 18px;
+
+}
+.footer__link:last-child {
+    margin: 0;
+}
