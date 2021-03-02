@@ -9,4 +9,4 @@
 *1024px*
 *1280px*
 ## Ссылка на сайт
-[Путешествия по России](https://github.com/natadavlina/russian-travel/blob/master/index.html)
+[Путешествия по России](https://natadavlina.github.io/russian-travel/)
