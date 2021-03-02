@@ -4,7 +4,7 @@
 }
 @media screen and (max-width: 1024px) {
     .lead__image {
-    padding-top: 56px;
+        padding-top: 56px;
     }
 }
 @media screen and (max-width: 768px) {

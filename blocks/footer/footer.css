@@ -26,7 +26,6 @@
     .footer {
         width: calc(100% - 32px);
         padding-top: 64px;
-        flex-direction: column;
         gap: 48px;
     }
 }

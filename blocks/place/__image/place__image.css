@@ -8,24 +8,24 @@
 }
 @media screen and (max-width: 1024px) {
    .place__image {
-   width: 440px;
-   height: 440px;
+      width: 440px;
+      height: 440px;
    }
 }
 @media screen and (max-width: 850px) {
    .place__image {
-   width: 340px;
-   height: 340px;
+      width: 340px;
+      height: 340px;
    }
 }
 
 @media screen and (max-width: 650px) {
    .place__image {
-   width: calc(100% + 48px);
+      width: calc(100% + 48px);
    }
 }
 @media screen and (max-width: 320px) {
    .place__image {
-   width: calc(100% + 32px);
+      width: calc(100% + 32px);
    }
 }
