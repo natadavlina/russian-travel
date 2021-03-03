@@ -21,11 +21,11 @@
 @media screen and (max-width: 650px) {
    .place__image {
       width: calc(100% + 48px);
+      justify-self: center;
    }
 }
 @media screen and (max-width: 320px) {
    .place__image {
       width: calc(100% + 32px);
-      justify-self: center;
    }
 }
