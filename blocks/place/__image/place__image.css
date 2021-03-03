@@ -2,7 +2,6 @@
    width: 460px;
    height: 460px;
    object-fit: cover;
-   justify-self: center;
    margin: 0;
    padding: 0;
 }
@@ -27,5 +26,6 @@
 @media screen and (max-width: 320px) {
    .place__image {
       width: calc(100% + 32px);
+      justify-self: center;
    }
 }

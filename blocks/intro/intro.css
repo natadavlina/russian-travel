@@ -1,5 +1,5 @@
 .intro {
-    max-width: 690px;
+    width: 690px;
     display: flex;
     flex-direction: column;
     padding-top: 92px;
@@ -13,11 +13,11 @@
 }
 @media screen and (max-width: 768px) {
     .intro {
-        width: calc(100% - 48px);
+        width: 720px;
         padding-top: 88px;
     }
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 720px) {
     .intro {
         width: calc(100% - 32px);
         padding-top: 64px;
